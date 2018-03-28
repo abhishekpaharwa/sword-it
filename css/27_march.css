@@ -1,0 +1,11 @@
+﻿@media (min-width: 1200px){
+    .container {
+        width: 1000px;
+
+    }
+}
+
+.head_1{
+    height:67%;
+    background-color:deeppink;
+}
